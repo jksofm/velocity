@@ -1,0 +1,722 @@
+
+:root{
+    --primary-color : #ec6952;
+    --primary-color-1: #28A5A8;
+    
+
+    --primary-color-2 : #497CB1;
+
+    --primary-color-3 : #F89D29;
+
+    --primary-color-4 : #34495e;
+    --primary-color-5 : #47c9af;
+    --primary-color-6 : #A06081;
+    --primary-color-7 : #96a94b;
+    --primary-color-8 : #f06060;
+    --primary-color-9 : #737F97;
+}
+/* THeme blue 1 */
+html[data-theme="blue1"] .navbar-brand{
+background-color: var(--primary-color-1);
+    
+
+}
+html[data-theme="blue1"] .navbarVelocity .navbar-brand.brand-scroll{
+    color : var(--primary-color-1);
+    background-color: white;
+
+    
+   
+    
+
+}
+
+html[data-theme="blue1"] .navbarVelocity .nav-linkVelocity.activeLink{
+    color : var(--primary-color-1);
+}
+
+html[data-theme="blue1"] .nav-linkVelocity.btn-scroll{
+    background-color: var(--primary-color-1);
+}
+html[data-theme="blue1"] .btn-sign:hover{
+    background-color: var(--primary-color-1);
+}
+
+html[data-theme="blue1"] .nav-item:last-child:hover .nav-linkVelocity{
+    color: var(--primary-color-1);
+
+}
+html[data-theme="blue1"] .btn-try{
+    background-color: var(--primary-color-1);
+    border: none;
+
+}
+html[data-theme="blue1"] .nav-item:hover .nav-linkVelocity{
+    color : var(--primary-color-1);
+}
+html[data-theme="blue1"] .feature-hagstag{
+    color : var(--primary-color-1);
+
+}
+html[data-theme="blue1"] .feature-download{
+    color : var(--primary-color-1);
+
+}
+html[data-theme="blue1"] .feature-bottom .btn-tour{
+    border: 2px solid var(--primary-color-1);
+    color : var(--primary-color-1);
+
+}
+html[data-theme="blue1"] .feature-bottom .btn-tour:hover{
+    background-color: var(--primary-color-1);
+    color : white;
+
+
+}
+html[data-theme="blue1"] .feedback-quote p:first-child i{
+    color : var(--primary-color-1);
+
+}
+html[data-theme="blue1"] .feedback-quote p:nth-child(2){
+    color : var(--primary-color-1);
+
+}
+html[data-theme="blue1"] .carousel-indicators li.active{
+    background-color:var(--primary-color-1);
+    
+}
+html[data-theme="blue1"] .promote p span {
+    color : var(--primary-color-1);
+    
+}
+html[data-theme="blue1"] .promote button{
+    background-color: var(--primary-color-1);
+
+}
+
+/* theme blue 2 */
+html[data-theme="blue2"] .navbar-brand{
+    background-color: var(--primary-color-2);
+        
+    
+    }
+    html[data-theme="blue2"] .navbarVelocity .navbar-brand.brand-scroll{
+        color : var(--primary-color-2);
+        background-color: white;
+    
+        
+       
+        
+    
+    }
+    
+    html[data-theme="blue2"] .navbarVelocity .nav-linkVelocity.activeLink{
+        color : var(--primary-color-2);
+    }
+    
+    html[data-theme="blue2"] .nav-linkVelocity.btn-scroll{
+        background-color: var(--primary-color-2);
+    }
+    html[data-theme="blue2"] .btn-sign:hover{
+        background-color: var(--primary-color-2);
+    }
+    
+    html[data-theme="blue2"] .nav-item:last-child:hover .nav-linkVelocity{
+        color: var(--primary-color-2);
+    
+    }
+    html[data-theme="blue2"] .btn-try{
+        background-color: var(--primary-color-2);
+        border: none;
+    
+    }
+    html[data-theme="blue2"] .nav-item:hover .nav-linkVelocity{
+        color : var(--primary-color-2);
+    }
+    html[data-theme="blue1"] .feature-hagstag{
+        color : var(--primary-color-2);
+    
+    }
+    html[data-theme="blue2"] .feature-download{
+        color : var(--primary-color-2);
+    
+    }
+    html[data-theme="blue2"] .feature-bottom .btn-tour{
+        border: 2px solid var(--primary-color-2);
+        color : var(--primary-color-2);
+    
+    }
+    html[data-theme="blue2"] .feature-bottom .btn-tour:hover{
+        background-color: var(--primary-color-2);
+        color : white;
+    
+    
+    }
+    html[data-theme="blue2"] .feedback-quote p:first-child i{
+        color : var(--primary-color-2);
+    
+    }
+    html[data-theme="blue2"] .feedback-quote p:nth-child(2){
+        color : var(--primary-color-2);
+    
+    }
+    html[data-theme="blue2"] .carousel-indicators li.active{
+        background-color:var(--primary-color-2);
+        
+    }
+    html[data-theme="blue2"] .promote p span {
+        color : var(--primary-color-2);
+        
+    }
+    html[data-theme="blue2"] .promote button{
+        background-color: var(--primary-color-2);
+    
+    }
+    /* themeorange 2 */
+    html[data-theme="orange2"] .navbar-brand{
+        background-color: var(--primary-color-3);
+            
+        
+        }
+        html[data-theme="orange2"] .navbarVelocity .navbar-brand.brand-scroll{
+            color : var(--primary-color-3);
+            background-color: white;
+        
+            
+           
+            
+        
+        }
+        
+        html[data-theme="orange2"] .navbarVelocity .nav-linkVelocity.activeLink{
+            color : var(--primary-color-3);
+        }
+        
+        html[data-theme="orange2"] .nav-linkVelocity.btn-scroll{
+            background-color: var(--primary-color-3);
+        }
+        html[data-theme="orange2"] .btn-sign:hover{
+            background-color: var(--primary-color-3);
+        }
+        
+        html[data-theme="orange2"] .nav-item:last-child:hover .nav-linkVelocity{
+            color: var(--primary-color-3);
+        
+        }
+        html[data-theme="orange2"] .btn-try{
+            background-color: var(--primary-color-3);
+            border: none;
+        
+        }
+        html[data-theme="orange2"] .nav-item:hover .nav-linkVelocity{
+            color : var(--primary-color-3);
+        }
+        html[data-theme="orange2"] .feature-hagstag{
+            color : var(--primary-color-3);
+        
+        }
+        html[data-theme="orange2"] .feature-download{
+            color : var(--primary-color-3);
+        
+        }
+        html[data-theme="orange2"] .feature-bottom .btn-tour{
+            border: 2px solid var(--primary-color-3);
+            color : var(--primary-color-3);
+        
+        }
+        html[data-theme="orange2"] .feature-bottom .btn-tour:hover{
+            background-color: var(--primary-color-3);
+            color : white;
+        
+        
+        }
+        html[data-theme="orange2"] .feedback-quote p:first-child i{
+            color : var(--primary-color-3);
+        
+        }
+        html[data-theme="orange2"] .feedback-quote p:nth-child(2){
+            color : var(--primary-color-3);
+        
+        }
+        html[data-theme="orange2"] .carousel-indicators li.active{
+            background-color:var(--primary-color-3);
+            
+        }
+        html[data-theme="orange2"] .promote p span {
+            color : var(--primary-color-3);
+            
+        }
+        html[data-theme="orange2"] .promote button{
+            background-color: var(--primary-color-3);
+        
+        }
+
+        /* theme blue 3 */
+        html[data-theme="blue3"] .navbar-brand{
+            background-color: var(--primary-color-4);
+                
+            
+            }
+            html[data-theme="blue3"] .navbarVelocity .navbar-brand.brand-scroll{
+                color : var(--primary-color-4);
+                background-color: white;
+            
+                
+               
+                
+            
+            }
+            
+            html[data-theme="blue3"] .navbarVelocity .nav-linkVelocity.activeLink{
+                color : var(--primary-color-4);
+            }
+            
+            html[data-theme="blue3"] .nav-linkVelocity.btn-scroll{
+                background-color: var(--primary-color-4);
+            }
+            html[data-theme="blue3"] .btn-sign:hover{
+                background-color: var(--primary-color-4);
+            }
+            
+            html[data-theme="blue3"] .nav-item:last-child:hover .nav-linkVelocity{
+                color: var(--primary-color-4);
+            
+            }
+            html[data-theme="blue3"] .btn-try{
+                background-color: var(--primary-color-4);
+                border: none;
+            
+            }
+            html[data-theme="blue3"] .nav-item:hover .nav-linkVelocity{
+                color : var(--primary-color-4);
+            }
+            html[data-theme="blue3"] .feature-hagstag{
+                color : var(--primary-color-4);
+            
+            }
+            html[data-theme="blue3"] .feature-download{
+                color : var(--primary-color-4);
+            
+            }
+            html[data-theme="blue3"] .feature-bottom .btn-tour{
+                border: 2px solid var(--primary-color-4);
+                color : var(--primary-color-4);
+            
+            }
+            html[data-theme="blue3"] .feature-bottom .btn-tour:hover{
+                background-color: var(--primary-color-4);
+                color : white;
+            
+            
+            }
+            html[data-theme="blue3"] .feedback-quote p:first-child i{
+                color : var(--primary-color-4);
+            
+            }
+            html[data-theme="blue3"] .feedback-quote p:nth-child(2){
+                color : var(--primary-color-4);
+            
+            }
+            html[data-theme="blue3"] .carousel-indicators li.active{
+                background-color:var(--primary-color-4);
+                
+            }
+            html[data-theme="blue3"] .promote p span {
+                color : var(--primary-color-4);
+                
+            }
+            html[data-theme="blue3"] .promote button{
+                background-color: var(--primary-color-4);
+            
+            }
+            /* theme blue 4 */
+        html[data-theme="blue4"] .navbar-brand{
+            background-color: var(--primary-color-5);
+                
+            
+            }
+            html[data-theme="blue4"] .navbarVelocity .navbar-brand.brand-scroll{
+                color : var(--primary-color-5);
+                background-color: white;
+            
+                
+               
+                
+            
+            }
+            
+            html[data-theme="blue4"] .navbarVelocity .nav-linkVelocity.activeLink{
+                color : var(--primary-color-5);
+            }
+            
+            html[data-theme="blue4"] .nav-linkVelocity.btn-scroll{
+                background-color: var(--primary-color-5);
+            }
+            html[data-theme="blue4"] .btn-sign:hover{
+                background-color: var(--primary-color-5);
+            }
+            
+            html[data-theme="blue4"] .nav-item:last-child:hover .nav-linkVelocity{
+                color: var(--primary-color-5);
+            
+            }   
+            html[data-theme="blue4"] .btn-try{
+                background-color: var(--primary-color-5);
+                border: none;
+            
+            }
+            html[data-theme="blue4"] .nav-item:hover .nav-linkVelocity{
+                color : var(--primary-color-5);
+            }
+            html[data-theme="blue4"] .feature-hagstag{
+                color : var(--primary-color-5);
+            
+            }
+            html[data-theme="blue4"] .feature-download{
+                color : var(--primary-color-5);
+            
+            }
+            html[data-theme="blue4"] .feature-bottom .btn-tour{
+                border: 2px solid var(--primary-color-5);
+                color : var(--primary-color-5);
+            
+            }
+            html[data-theme="blue4"] .feature-bottom .btn-tour:hover{
+                background-color: var(--primary-color-5);
+                color : white;
+            
+            
+            }
+            html[data-theme="blue4"] .feedback-quote p:first-child i{
+                color : var(--primary-color-5);
+            
+            }
+            html[data-theme="blue4"] .feedback-quote p:nth-child(2){
+                color : var(--primary-color-5);
+            
+            }
+            html[data-theme="blue4"] .carousel-indicators li.active{
+                background-color:var(--primary-color-5);
+                
+            }
+            html[data-theme="blue4"] .promote p span {
+                color : var(--primary-color-5);
+                
+            }
+            html[data-theme="blue4"] .promote button{
+                background-color: var(--primary-color-5);
+            
+            }
+             /* theme purple */
+        html[data-theme="purple"] .navbar-brand{
+            background-color: var(--primary-color-6);
+                
+            
+            }
+            html[data-theme="purple"] .navbarVelocity .navbar-brand.brand-scroll{
+                color : var(--primary-color-6);
+                background-color: white;
+            
+                
+               
+                
+            
+            }
+            
+            html[data-theme="purple"] .navbarVelocity .nav-linkVelocity.activeLink{
+                color : var(--primary-color-6);
+            }
+            
+            html[data-theme="purple"] .nav-linkVelocity.btn-scroll{
+                background-color: var(--primary-color-6);
+            }
+            html[data-theme="purple"] .btn-sign:hover{
+                background-color: var(--primary-color-6);
+            }
+            
+            html[data-theme="purple"] .nav-item:last-child:hover .nav-linkVelocity{
+                color: var(--primary-color-6);
+            
+            }
+            html[data-theme="purple"] .btn-try{
+                background-color: var(--primary-color-6);
+                border: none;
+            
+            }
+            html[data-theme="purple"] .nav-item:hover .nav-linkVelocity{
+                color : var(--primary-color-6);
+            }
+            html[data-theme="purple"] .feature-hagstag{
+                color : var(--primary-color-6);
+            
+            }
+            html[data-theme="purple"] .feature-download{
+                color : var(--primary-color-6);
+            
+            }
+            html[data-theme="purple"] .feature-bottom .btn-tour{
+                border: 2px solid var(--primary-color-6);
+                color : var(--primary-color-6);
+            
+            }
+            html[data-theme="purple"] .feature-bottom .btn-tour:hover{
+                background-color: var(--primary-color-6);
+                color : white;
+            
+            
+            }
+            html[data-theme="purple"] .feedback-quote p:first-child i{
+                color : var(--primary-color-6);
+            
+            }
+            html[data-theme="purple"] .feedback-quote p:nth-child(2){
+                color : var(--primary-color-6);
+            
+            }
+            html[data-theme="purple"] .carousel-indicators li.active{
+                background-color:var(--primary-color-6);
+                
+            }
+            html[data-theme="purple"] .promote p span {
+                color : var(--primary-color-6);
+                
+            }
+            html[data-theme="purple"] .promote button{
+                background-color: var(--primary-color-6);
+            
+            }
+ /* theme green */
+ html[data-theme="green"] .navbar-brand{
+    background-color: var(--primary-color-7);
+        
+    
+    }
+    html[data-theme="green"] .navbarVelocity .navbar-brand.brand-scroll{
+        color : var(--primary-color-7);
+        background-color: white;
+    
+        
+       
+        
+    
+    }
+    
+    html[data-theme="green"] .navbarVelocity .nav-linkVelocity.activeLink{
+        color : var(--primary-color-7);
+    }
+    
+    html[data-theme="green"] .nav-linkVelocity.btn-scroll{
+        background-color: var(--primary-color-7);
+    }
+    html[data-theme="green"] .btn-sign:hover{
+        background-color: var(--primary-color-7);
+    }
+    
+    html[data-theme="green"] .nav-item:last-child:hover .nav-linkVelocity{
+        color: var(--primary-color-7);
+    
+    }
+    html[data-theme="green"] .btn-try{
+        background-color: var(--primary-color-7);
+        border: none;
+    
+    }
+    html[data-theme="green"] .nav-item:hover .nav-linkVelocity{
+        color : var(--primary-color-7);
+    }
+    html[data-theme="green"] .feature-hagstag{
+        color : var(--primary-color-7);
+    
+    }
+    html[data-theme="green"] .feature-download{
+        color : var(--primary-color-7);
+    
+    }
+    html[data-theme="green"] .feature-bottom .btn-tour{
+        border: 2px solid var(--primary-color-7);
+        color : var(--primary-color-7);
+    
+    }
+    html[data-theme="green"] .feature-bottom .btn-tour:hover{
+        background-color: var(--primary-color-7);
+        color : white;
+    
+    
+    }
+    html[data-theme="green"] .feedback-quote p:first-child i{
+        color : var(--primary-color-7);
+    
+    }
+    html[data-theme="green"] .feedback-quote p:nth-child(2){
+        color : var(--primary-color-7);
+    
+    }
+    html[data-theme="green"] .carousel-indicators li.active{
+        background-color:var(--primary-color-7);
+        
+    }
+    html[data-theme="green"] .promote p span {
+        color : var(--primary-color-7);
+        
+    }
+    html[data-theme="green"] .promote button{
+        background-color: var(--primary-color-7);
+    
+    }
+
+    /* theme pink */
+ html[data-theme="pink"] .navbar-brand{
+    background-color: var(--primary-color-8);
+        
+    
+    }
+    html[data-theme="pink"] .navbarVelocity .navbar-brand.brand-scroll{
+        color : var(--primary-color-8);
+        background-color: white;
+    
+        
+       
+        
+    
+    }
+    
+    html[data-theme="pink"] .navbarVelocity .nav-linkVelocity.activeLink{
+        color : var(--primary-color-8);
+    }
+    
+    html[data-theme="pink"] .nav-linkVelocity.btn-scroll{
+        background-color: var(--primary-color-8);
+    }
+    html[data-theme="pink"] .btn-sign:hover{
+        background-color: var(--primary-color-8);
+    }
+    
+    html[data-theme="pink"] .nav-item:last-child:hover .nav-linkVelocity{
+        color: var(--primary-color-8);
+    
+    }
+    html[data-theme="pink"] .btn-try{
+        background-color: var(--primary-color-8);
+        border: none;
+    
+    }
+    html[data-theme="pink"] .nav-item:hover .nav-linkVelocity{
+        color : var(--primary-color-8);
+    }
+    html[data-theme="pink"] .feature-hagstag{
+        color : var(--primary-color-8);
+    
+    }
+    html[data-theme="pink"] .feature-download{
+        color : var(--primary-color-8);
+    
+    }
+    html[data-theme="pink"] .feature-bottom .btn-tour{
+        border: 2px solid var(--primary-color-8);
+        color : var(--primary-color-8);
+    
+    }
+    html[data-theme="pink"] .feature-bottom .btn-tour:hover{
+        background-color: var(--primary-color-8);
+        color : white;
+    
+    
+    }
+    html[data-theme="pink"] .feedback-quote p:first-child i{
+        color : var(--primary-color-8);
+    
+    }
+    html[data-theme="pink"] .feedback-quote p:nth-child(2){
+        color : var(--primary-color-8);
+    
+    }
+    html[data-theme="pink"] .carousel-indicators li.active{
+        background-color:var(--primary-color-8);
+        
+    }
+    html[data-theme="pink"] .promote p span {
+        color : var(--primary-color-8);
+        
+    }
+    html[data-theme="pink"] .promote button{
+        background-color: var(--primary-color-8);
+    
+    }
+    /* theme blue5 */
+ html[data-theme="blue5"] .navbar-brand{
+    background-color: var(--primary-color-9);
+        
+    
+    }
+    html[data-theme="blue5"] .navbarVelocity .navbar-brand.brand-scroll{
+        color : var(--primary-color-9);
+        background-color: white;
+    
+        
+       
+        
+    
+    }
+    
+    html[data-theme="blue5"] .navbarVelocity .nav-linkVelocity.activeLink{
+        color : var(--primary-color-9);
+    }
+    
+    html[data-theme="blue5"] .nav-linkVelocity.btn-scroll{
+        background-color: var(--primary-color-9);
+    }
+    html[data-theme="blue5"] .btn-sign:hover{
+        background-color: var(--primary-color-9);
+    }
+    
+    html[data-theme="blue5"] .nav-item:last-child:hover .nav-linkVelocity{
+        color: var(--primary-color-9);
+    
+    }
+    html[data-theme="blue5"] .btn-try{
+        background-color: var(--primary-color-9);
+        border: none;
+    
+    }
+    html[data-theme="blue5"] .nav-item:hover .nav-linkVelocity{
+        color : var(--primary-color-9);
+    }
+    html[data-theme="blue5"] .feature-hagstag{
+        color : var(--primary-color-9);
+    
+    }
+    html[data-theme="blue5"] .feature-download{
+        color : var(--primary-color-9);
+    
+    }
+    html[data-theme="blue5"] .feature-bottom .btn-tour{
+        border: 2px solid var(--primary-color-9);
+        color : var(--primary-color-9);
+    
+    }
+    html[data-theme="blue5"] .feature-bottom .btn-tour:hover{
+        background-color: var(--primary-color-9);
+        color : white;
+    
+    
+    }
+    html[data-theme="blue5"] .feedback-quote p:first-child i{
+        color : var(--primary-color-9);
+    
+    }
+    html[data-theme="blue5"] .feedback-quote p:nth-child(2){
+        color : var(--primary-color-9);
+    
+    }
+    html[data-theme="blue5"] .carousel-indicators li.active{
+        background-color:var(--primary-color-9);
+        
+    }
+    html[data-theme="blue5"] .promote p span {
+        color : var(--primary-color-9);
+        
+    }
+    html[data-theme="blue5"] .promote button{
+        background-color: var(--primary-color-9);
+    
+    }
